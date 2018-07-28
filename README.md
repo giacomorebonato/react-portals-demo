@@ -1,5 +1,7 @@
 # React portals example
 
+This example is a follow up to [this presentation](https://docs.google.com/presentation/d/15XQ1tcoJhtWTRE5H1B6l-i5NxkJJW_RbfIcKGrSfOnU/edit).
+
 ## Instructions
 
 ```bash
