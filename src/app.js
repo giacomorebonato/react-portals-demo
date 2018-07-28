@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import { createPortal, render } from 'react-dom'
-import _ from 'lodash'
 
 class App extends Component {
   constructor (props) {
